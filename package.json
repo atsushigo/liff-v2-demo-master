@@ -6,10 +6,12 @@
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
-	"start": "node server.js"
+    "start": "node server.js"
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "express": "^4.17.1",
+    "static-serve": "0.0.1",
     "vue": "^2.6.10",
     "vue-router": "^3.0.3",
     "vuetify": "^2.1.0"
