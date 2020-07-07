@@ -1,6 +1,5 @@
 # liff-v2-demo-master
-
-##Liff deploying on Heroku test.
+## Liff deploying on Heroku test.
 https://liff-v2-demo-master.herokuapp.com
 
 # refering 
